@@ -1,1 +1,1 @@
-a practice weatherapp (based on your location). 
+Weather app, giving you weather information based on your browsers location. (practice) 
