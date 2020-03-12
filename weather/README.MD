@@ -1,1 +1,1 @@
-a weatherapp using javascript. 
+a practice weatherapp (based on your location). 
